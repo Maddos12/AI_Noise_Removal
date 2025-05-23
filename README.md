@@ -6,8 +6,8 @@ Note: **This is not a complete and efficient model**
 
 Make sure you have Python 3.10+ installed. Create and activate a virtual environment, then install the following dependencies:
 
-```bash
-pip install moviepy librosa soundfile numpy scikit-learn SpeechRecognition langdetect
+`bash
+pip install moviepy librosa soundfile numpy scikit-learn SpeechRecognition langdetect`
 
 
 - You can build your own dataset but creating a dataset folder and creating folders inside it
