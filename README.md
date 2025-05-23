@@ -8,3 +8,9 @@ Make sure you have Python 3.10+ installed. Create and activate a virtual environ
 
 ```bash
 pip install moviepy librosa soundfile numpy scikit-learn SpeechRecognition langdetect
+
+
+- You can build your own dataset but creating a dataset folder and creating folders inside it
+- Then when you run the script in venv, enter the 'build' command and then build it.
+
+- Then use a path to a video that is saved locally on your PC and see the results. 
